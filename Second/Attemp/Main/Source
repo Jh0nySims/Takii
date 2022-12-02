@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jh0nySims/TakiiScript/main/PopitTrading/Script/Version-4.1.0/Main/source"))()
